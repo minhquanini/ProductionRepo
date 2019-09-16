@@ -1,0 +1,33 @@
+﻿@model ProductUI.Models.ReviewViewModel
+@{
+    ViewData["Title"] = "ProductReview";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form action="/Product/ProductReview" method="post">
+    @Html.HiddenFor(x=>x.ProductId)
+    @Html.HiddenFor(x=>x.ProductName)
+    <div class="form-group">
+        <h2>@Model.ProductName</h2>
+        @Html.LabelFor(x => x.Rating)
+        <div class="rating">
+
+            @for (var i = 1; i <= 10; i++)
+            {
+                @Html.RadioButtonFor(x => x.Rating, i, new { @class = "fa fa-star" })
+            }
+        </div>
+        @Html.ValidationMessageFor(model => model.Rating, "", new { @class = "text-danger" })
+        <br/>
+        @Html.LabelFor(x => x.Email)
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control col-4", placeholder = "Enter email here..." })
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+        <br />
+        @Html.LabelFor(x => x.Comment)
+        @Html.TextAreaFor(x => x.Comment, new { @class = "form-control", placeholder = "Enter comment here..." })
+        @Html.ValidationMessageFor(model => model.Comment, "", new { @class = "text-danger" })
+        <br />
+        <button class="btn btn-success" type="submit">Save</button>
+    </div>
+</form>
+

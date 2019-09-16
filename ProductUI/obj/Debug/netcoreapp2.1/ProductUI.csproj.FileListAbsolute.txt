@@ -1,0 +1,60 @@
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csproj.CoreCompileInputs.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorAssemblyInfo.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorAssemblyInfo.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.AssemblyInfoInputs.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.AssemblyInfo.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.dll
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.pdb
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.deps.json
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.runtimeconfig.json
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.runtimeconfig.dev.json
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.dll
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.pdb
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.Views.dll
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.Views.pdb
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.TagHelpers.input.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.TagHelpers.output.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorCoreGenerate.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorTargetAssemblyInfo.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorTargetAssemblyInfo.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.Views.pdb
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csproj.CopyComplete
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csprojAssemblyReference.cache
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\Production\ProductUI\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Error.g.cshtml.cs
+D:\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\AddReview.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.deps.json
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.runtimeconfig.json
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.runtimeconfig.dev.json
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.dll
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.pdb
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.Views.dll
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\ProductUI.Views.pdb
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\ASP.NET CORE\Production\ProductUI\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.AssemblyInfo.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.TagHelpers.input.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.TagHelpers.output.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorCoreGenerate.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Error.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductReview.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.RazorTargetAssemblyInfo.cs
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.Views.pdb
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.csproj.CopyComplete
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.dll
+D:\ASP.NET CORE\Production\ProductUI\obj\Debug\netcoreapp2.1\ProductUI.pdb

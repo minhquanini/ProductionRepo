@@ -1,0 +1,34 @@
+D:\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.deps.json
+D:\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.json
+D:\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.dev.json
+D:\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.dll
+D:\Production\Production\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\Production\Production\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csprojAssemblyReference.cache
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cache
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cs
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfoInputs.cache
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfo.cs
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CopyComplete
+D:\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.pdb
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.dll
+D:\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.pdb
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.deps.json
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.json
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.dev.json
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.dll
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\ProductAPI.pdb
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\ASP.NET CORE\Production\Production\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfo.cs
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CopyComplete
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.dll
+D:\ASP.NET CORE\Production\Production\obj\Debug\netcoreapp2.1\ProductAPI.pdb

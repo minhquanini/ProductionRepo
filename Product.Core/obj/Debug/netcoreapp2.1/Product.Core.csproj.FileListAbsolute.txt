@@ -1,0 +1,21 @@
+D:\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.deps.json
+D:\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.runtimeconfig.json
+D:\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.runtimeconfig.dev.json
+D:\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.csproj.CoreCompileInputs.cache
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.AssemblyInfoInputs.cache
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.AssemblyInfo.cs
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.dll
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.pdb
+D:\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.deps.json
+D:\ASP.NET CORE\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.runtimeconfig.json
+D:\ASP.NET CORE\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.runtimeconfig.dev.json
+D:\ASP.NET CORE\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.dll
+D:\ASP.NET CORE\Production\Product.Core\bin\Debug\netcoreapp2.1\Product.Core.pdb
+D:\ASP.NET CORE\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.AssemblyInfo.cs
+D:\ASP.NET CORE\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.dll
+D:\ASP.NET CORE\Production\Product.Core\obj\Debug\netcoreapp2.1\Product.Core.pdb

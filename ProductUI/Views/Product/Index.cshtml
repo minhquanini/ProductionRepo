@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ProductUI.Models.ProductViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">View Product List</h1>
+</div>
+<div class="row">
+
+    @foreach (var i in Model)
+    {
+    <div class="col-lg-6">
+        <div class="card mb-4">
+            <div class="card-header">
+                @i.ProductName
+                <div><a href="@Url.Action("ProductReview", "Product", new { id = i.Id })">Review</a></div>
+            </div>
+            <div class="card-body">
+                <div>@i.BrandName</div>
+                <div>@i.Description</div>
+                <div style="font-weight:bold">Most Recent review: </div>
+                <div class="recent-review">
+                    <div>User name: @i.UserName</div>
+                    <div>Comment: @i.Comment</div>
+                    <div>Rating: @i.Rating</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+</div>
+   
+<script type="text/javascript">
+    $(document).ready(function () {
+        console.log("test js file");
+        Init(@Model.Count());
+    });
+</script>
+

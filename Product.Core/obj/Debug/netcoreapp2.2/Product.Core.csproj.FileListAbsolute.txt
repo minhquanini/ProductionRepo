@@ -1,0 +1,9 @@
+D:\Production\Product.Core\bin\Debug\netcoreapp2.2\Product.Core.deps.json
+D:\Production\Product.Core\bin\Debug\netcoreapp2.2\Product.Core.dll
+D:\Production\Product.Core\bin\Debug\netcoreapp2.2\Product.Core.pdb
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.csprojAssemblyReference.cache
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.csproj.CoreCompileInputs.cache
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.AssemblyInfoInputs.cache
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.AssemblyInfo.cs
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.dll
+D:\Production\Product.Core\obj\Debug\netcoreapp2.2\Product.Core.pdb
